@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://heloisewtwt.github.io/Heloise-s-Minimal-Lifestyle-Food-Blog-in-Malaysia/sitemap.xml
